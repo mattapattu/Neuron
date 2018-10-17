@@ -42,16 +42,8 @@ class Neuron {
         
     }
     
-    
-    
-
-   
-//    while (1) {
-//      
-//      float X=getinput(); # User has to provide input as an int or float
-//      Y= n.activation(X);
-//      print(Y) # print the output of neuron
-//    }
+    System.out.println(output);
+        
   }
 }
 
