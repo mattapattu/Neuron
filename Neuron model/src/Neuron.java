@@ -41,7 +41,7 @@ class Neuron {
         output.add(Y);
         
     }
-    
+    //test
     System.out.println(output);
         
   }
